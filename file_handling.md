@@ -14,3 +14,8 @@ cp /src/hello.txt /bin
 ```
 rm /src/hello.txt
 ```
+
+## Removing all files from a directory
+```
+rm -r /src
+```
